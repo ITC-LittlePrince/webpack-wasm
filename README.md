@@ -59,5 +59,10 @@ npm run build-linux
 > Note: --openssl-legacy-provider for Node >=v19. Popular error when running. Probably can be removed in the future or in earlier versions of Node.
 
 
+## Additional links to WASM documentation:
+
+ - [**wasm-pack**](https://rustwasm.github.io/docs/wasm-pack/introduction.html)
+ - [**wasm-bindgen**](https://rustwasm.github.io/docs/wasm-bindgen/introduction.html)
+ - [**rust-wasm**](https://rustwasm.github.io/book/introduction.html)
 
 
