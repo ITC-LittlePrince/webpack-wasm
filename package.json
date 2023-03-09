@@ -1,5 +1,5 @@
 {
-  "name": "my-webpack-wasm-package",
+  "name": "webpack-wasm",
   "version": "0.0.1",
   "description": "wasm",
   "scripts": {
