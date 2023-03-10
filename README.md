@@ -20,6 +20,13 @@ I'm also raising funds to create and maintain a protocol for my new ecosystem fo
 Metamask wallet ETH, BNB, MATIC, AVAX: 0x31645180e05c4721b32F48B3e9e1437dc1A6455A
 
 
+# To quickly create a new application using npx:
+```sh
+npx degit ITC-LittlePrince/webpack-wasm.git my-new-app-name
+```
+*Don't forget to change my-new-app-name to the name of your project.*
+
+
 # Usage on Windows/Linux:
 
 ## To run during development
