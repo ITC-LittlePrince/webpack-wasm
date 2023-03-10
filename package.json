@@ -1,7 +1,7 @@
 {
   "name": "webpack-wasm",
   "version": "0.0.1",
-  "description": "wasm",
+  "description": "wasm webpack clear template",
   "scripts": {
     "build-linux": "export NODE_OPTIONS=--openssl-legacy-provider && rimraf dist && webpack",
     "start-linux": "export NODE_OPTIONS=--openssl-legacy-provider && rimraf dist && webpack-dev-server --open",
@@ -10,6 +10,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "your@<account>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ITC-LittlePrince/webpack-wasm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ITC-LittlePrince/webpack-wasm/issues"
+  },
+  "homepage": "https://github.com/ITC-LittlePrince/webpack-wasm",
+  "keywords": [
+    "rust", "framework", "webpack", "web", "hmr", "mdn", "wasm", "rust-library", "hmr-support", "wasm-example",
+    "wasm-bindgen", "wasm-pack", "webpack5", "rust-lib"
+  ],
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.21.0",
