@@ -17,7 +17,7 @@ This is a fresh and up-to-date wasm-pack repository using Webpack 5 + HMR and Be
 I'm also raising funds to create and maintain a protocol for my new ecosystem for use in WEB 4.0 networks with a decentralized node infrastructure.
 
 
-Metamask wallet ETH, BNB, MATIC, AVAX: 0x31645180e05c4721b32F48B3e9e1437dc1A6455A
+Metamask wallet ETH, BNB, MATIC, AVAX: 0xAc3C75F55A51efeEa471bbB7fB4FD00Ec8FcE9e4
 
 
 # To quickly create a new application using npx:
